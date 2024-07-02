@@ -3,7 +3,7 @@
 
 <template>
   <main class="wrapperx">
-      <h1>Zenware Parallel Utility Line IOT</h1>
+      <h1>Zenware Parallel Utility Linked IoT</h1>
       <small>
         Think Smart Run with Zero Negativity
       </small>

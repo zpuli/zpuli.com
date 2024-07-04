@@ -5,7 +5,7 @@
   <main class="wrapperx">
       <h1><b>Z</b>enware <b>P</b>arallel <b>U</b>tility <b>L</b>inked <b>I</b>oT</h1>
       <small>
-        Think Smart Run with Zero Negativity
+        Think Smart; Place Internet of Things Everywhere.
       </small>
   </main>
 </template>
